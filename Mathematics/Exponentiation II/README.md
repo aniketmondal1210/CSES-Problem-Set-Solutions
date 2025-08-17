@@ -31,15 +31,20 @@ Your task is to efficiently calculate values `a^(b^c) mod (10^9+7)`.
 ### Input
 
 3
+
 3 7 1
+
 15 2 2
+
 3 4 5
 
 
 ### Output
 
 2187
+
 50625
+
 763327764
 
 
