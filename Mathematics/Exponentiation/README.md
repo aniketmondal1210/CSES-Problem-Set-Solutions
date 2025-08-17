@@ -31,15 +31,20 @@ Your task is to efficiently calculate values `a^b mod (10^9+7)`.
 ### Input
 
 3
+
 3 4
+
 2 8
+
 123 123
 
 
 ### Output
 
 81
+
 256
+
 921450052
 
 
